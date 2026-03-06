@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "失眠的夜",
+  "base_artist": "宋孟君",
+  "createdAt": "2026-03-06T03:01:13.051867Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "失眠的夜 - DJ热搜版",
+      "artist": "宋孟君",
+      "has_synced": true,
+      "path": "select/01_失眠的夜_-_DJ热搜版_宋孟君.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "失眠的夜",
+      "artist": "宋孟君",
+      "has_synced": false,
+      "path": "select/02_失眠的夜_宋孟君.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "失眠的夜 - DJ沈念版",
+      "artist": "宋孟君",
+      "has_synced": true,
+      "path": "select/03_失眠的夜_-_DJ沈念版_宋孟君.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "失眠的夜",
+      "artist": "周传雄",
+      "has_synced": true,
+      "path": "select/04_失眠的夜_周传雄.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "失眠的夜",
+      "artist": "周傳雄",
+      "has_synced": true,
+      "path": "select/05_失眠的夜_周傳雄.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "失眠的夜 - DJ热搜版",
+      "artist": "林孟君",
+      "has_synced": true,
+      "path": "select/06_失眠的夜_-_DJ热搜版_林孟君.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "失眠的夜",
+      "artist": "宋孟君, 范川哲",
+      "has_synced": false,
+      "path": "select/pl_01_失眠的夜_宋孟君,_范川哲.txt"
+    }
+  ]
+}
